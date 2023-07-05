@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0"
+  },
+  "name": "3.-qr-code-generator-project",
+  "version": "1.0.0",
+  "description": "A QR code generator project",
+  "main": "index.js",
+  "type":"module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Patidar",
+  "license": "ISC"
+}
